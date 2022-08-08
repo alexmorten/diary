@@ -25,3 +25,27 @@
 
 - really good mood
 - pair programming with torri
+- feel bad when I have nothing to immediatly do
+- nice talk with Martin K.
+- helped fix small bug in user_sync script
+- home alone, played a bit of songs of syx
+
+## 05
+
+- slept not that great
+- more pair-programming with torri
+- feel down/exhausted
+- massive fight with Simona
+
+# 06
+
+- grocery shopping
+- started playing subnautica below zero
+- somewhat good mood
+
+# 07
+
+- brunch at bakery with Simona
+- lunch + nice walk with Josef
+- video games + reading in the evening
+- good mood
