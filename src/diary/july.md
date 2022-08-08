@@ -1,12 +1,12 @@
-# July
+# July 2022
 
-## 2022-07-25
+## 25
 
 - work, reading in the evening
 - slept well
 - good mood throughout the day
 
-## 2022-07-26
+## 26
 
 - work, reading, anime
 - slept neither well nor badly
@@ -16,7 +16,7 @@
 - created more `grimoire` pages
 - no food in the evening
 
-## 2022-07-27
+## 27
 
 - drive to Luebeck
 - easy to irritate
@@ -25,7 +25,7 @@
   - > Selbstwertpanikattacke
 - Luebeck angeguckt
 
-## 2022-07-28
+## 28
 
 - good sleep
 - "Jogginghose und T-Shirt sehen nicht so toll aus" - Simona
@@ -33,20 +33,20 @@
 - Tretboottour
 - zur Ferienwohnung gefahren
 
-## 2022-07-29
+## 29
 
 - excellent sleep
 - long walk
 - ate some nice crepes
 - slight sun-burn
 
-## 2022-07-30
+## 30
 
 - excellent sleep
 - lesen im strandkorb
 - good mood
 
-## 2022-07-31
+## 31
 
 - good sleep
 - Herzrasen, zu warm, Kreislauf
