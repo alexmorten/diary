@@ -49,3 +49,22 @@
 - lunch + nice walk with Josef
 - video games + reading in the evening
 - good mood
+
+# 08
+- working on the ad layout importer alone
+  - nice to do some programming alone as well
+- lunch with cedric
+- got new headphones
+- good mood
+
+# 09
+- picked up mom from the train station
+- went to work
+- paired with torri
+- good mood
+
+# 10
+- went to work
+- lunch with Simona and Mom
+- good mood
+- very productive
