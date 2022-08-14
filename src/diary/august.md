@@ -68,3 +68,34 @@
 - lunch with Simona and Mom
 - good mood
 - very productive
+- dinner with Eugen, mom and Imke
+- nice sleep
+
+# 11
+- work in the office
+- working alone
+- lunch using breakfast stuff in the office
+- met Elli and looked at DarkMatter
+  - nice talking
+  - was nice to meet her again
+- good mood
+
+# 12
+- work from home
+- simona left for Bachelorette Party in the morning
+- didn't achieve much
+- not great, not terrible mood
+- psychologist session in the evening
+- spent evening reading
+
+# 13
+- read a lot
+- watched a bit of youtube
+- mom came in the afternoon
+- walk in the neighborhood
+- talked about depression in general
+
+# 14
+- walk in the morning
+- played a bit of factorio
+- dinner with eugen and mom at nice italien restaurant
