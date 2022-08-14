@@ -14,8 +14,9 @@ Make contact with
 
 ### Activities
 
-- Jazz Bar
-- Laser Tag (when possible)
+- [ ] Jazz Bar
+- [ ] Laser Tag (when possible)
+- [ ] play factorio with Elli & friends
 
 one shot:
-- [ ] Dark Matter
+- [x] Dark Matter
