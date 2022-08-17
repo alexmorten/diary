@@ -99,3 +99,22 @@
 - walk in the morning
 - played a bit of factorio
 - dinner with eugen and mom at nice italien restaurant
+
+# 15
+- good sleep
+- nice work from the office
+- got a lot done
+- nice dinner with Simona at indian place in Oranienburger Straße
+- they had an anniversary party with live music and some dancers
+
+# 16
+- ok sleep
+- work from the office
+- ok progress
+- played factorio with Elli in the evening
+
+# 17
+- work form home
+- wasn't productive
+- psychologist appointment at 14:00
+- met eugen for dinner
