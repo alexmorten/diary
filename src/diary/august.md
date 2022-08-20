@@ -118,3 +118,21 @@
 - wasn't productive
 - psychologist appointment at 14:00
 - met eugen for dinner
+
+# 18
+- traveled to Weingarten for wedding
+- went to lake in the evening to get to know some people already
+
+
+# 19
+- Wedding
+- ceremony at 12
+- went to restaurant/event place afterwards
+- good food
+- people were all very nice
+- some nice dancing
+- went to afterparty for a short amount of time
+- back in hotel at 02:15
+
+# 20
+- went to therme
