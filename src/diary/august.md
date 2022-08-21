@@ -136,3 +136,11 @@
 
 # 20
 - went to therme
+- explored Karlsruhe a bit
+- had some pizza at L'Osteria
+- tried out LunarVim in the evening
+
+# 21
+- train back to Berlin
+- played around more with LunarVim / NeoVim
+- warm
