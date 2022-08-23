@@ -144,3 +144,14 @@
 - train back to Berlin
 - played around more with LunarVim / NeoVim
 - warm
+
+# 22 
+- stayed at home
+- mostly lazing around
+- Talked with Leon
+- played Deep Rock Galactic in the evening together
+
+# 23
+- went to the office
+- went to Arise with Eugen
+
