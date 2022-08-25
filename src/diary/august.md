@@ -154,4 +154,15 @@
 # 23
 - went to the office
 - went to Arise with Eugen
+- felt good
 
+# 24 
+- candidate interview in the morning
+- pairing with Praveen for his task
+- went to psychologist
+- went to restaurant with Simona
+- went to Aggy's birthday party in a bar
+- good mood
+
+# 25
+- went to the office
