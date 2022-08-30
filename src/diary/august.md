@@ -145,7 +145,7 @@
 - played around more with LunarVim / NeoVim
 - warm
 
-# 22 
+# 22
 - stayed at home
 - mostly lazing around
 - Talked with Leon
@@ -156,7 +156,7 @@
 - went to Arise with Eugen
 - felt good
 
-# 24 
+# 24
 - candidate interview in the morning
 - pairing with Praveen for his task
 - went to psychologist
@@ -166,3 +166,33 @@
 
 # 25
 - went to the office
+- productive
+- built most of layout preview
+- mind exhausted (? drinking day before propably didn't help)
+
+# 26
+- work from home
+- took bath in the evening
+
+# 27
+- went to bike shop with eugen
+  - ordered bike, should arrive in 2-3 weeks
+- really nice sex
+
+# 28
+- cleaned up flat
+- played factorio with Elli in the evening
+
+# 29
+- work from home
+- decided what salary I would like to earn
+- read a bit in bed
+
+# 30
+- slept really well
+- small workout in the morning
+- went to the office
+- got a really nice salary increase
+  - very happy
+- productive day
+- played Deep rock galactic with Leon in the evening
