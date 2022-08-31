@@ -195,4 +195,10 @@
 - got a really nice salary increase
   - very happy
 - productive day
-- played Deep rock galactic with Leon in the evening
+- played Perfect Heist 2 with Leon & friends in the evening
+
+# 31
+- slept well
+- small workout in the morning
+- went to the office
+- signed resignation as a working student so I can be rehired as a full-time employee
