@@ -204,3 +204,5 @@
 - signed resignation as a working student so I can be rehired as a full-time employee
 - signed new contract
 - helped aggy with debugging various issues
+- played perfect heist 2 and Deep rock Galactic with Leon
+

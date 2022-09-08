@@ -7,3 +7,5 @@
 
 - [July](./diary/july.md)
 - [August](./diary/august.md)
+- [September](./diary/september.md)
+
