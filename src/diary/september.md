@@ -45,3 +45,32 @@
 # 7
 - went to the office
 - productive
+
+# 8 
+- went to the office
+- got new laptop
+- spent time on setup in the evening
+
+
+# 9
+- homeoffice
+- unproductive
+- swimming in the evening
+- played factorio with Elli afterwards
+
+# 10
+- spent most of the day in bed
+- didn't feel very well
+- played a bit of Deep Rock Galactic in the evening with Leon
+
+# 11 
+- made a small trip to the Pfaueninsel close to Wannensee
+- played bit of Deep Rock Galactic in the evening with Leon
+- went to bed late
+
+# 12
+- didn't sleep well
+- homeoffice
+- presentations for project
+- deep rock galactic in the evening
+
