@@ -169,3 +169,15 @@
 - did not sleep well because of coughing
 - home office
 - oncall
+
+# 27
+
+- bad sleep because of coughing
+- went to the office again
+- spent most time on oncall and reviews
+
+# 30
+
+- homeoffice
+- received 3d printer
+- ordered filament
